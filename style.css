@@ -1,0 +1,12 @@
+.tombol{
+  color: green !important;
+  text-decoration: underline;
+}
+
+.tombol2{
+  color: red;
+}
+
+.btn-underline{
+  text-decoration: underline !important;
+}
